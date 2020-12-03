@@ -1,0 +1,10 @@
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.csprojAssemblyReference.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.Form1.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.Properties.Resources.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.csproj.GenerateResource.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.csproj.CoreCompileInputs.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\bin\Debug\EjValidacionExp.exe.config
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\bin\Debug\EjValidacionExp.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\bin\Debug\EjValidacionExp.pdb
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\EjValidacionExp\obj\Debug\EjValidacionExp.pdb
